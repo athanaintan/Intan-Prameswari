@@ -1,7 +1,5 @@
-# Intan-Prameswari
+# Hi, I'm Intan-Prameswari
 My personal GitHub profile  — projects, skills, and a little bit about me.
-# Hi, I'm Athana Intan! 👋
-
 I'm a BINUS university student who enjoys exploring web development, UI/UX, 
 creative digital projects, and learning new things through technology.
 
